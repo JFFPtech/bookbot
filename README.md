@@ -28,7 +28,9 @@ Usage
 
 To run the BookBot, navigate to the project directory and run:
 
+```
 python main.py
+```
 
 Make sure that the books directory contains a text file named frankenstein.txt, as the script expects this file by default.
 
@@ -39,4 +41,6 @@ Your Javier Ferrer - arrozconsalchichas1229@gmail.com
 Project Link: https://github.com/your-username/bookbot
 
 
-This README provides a comprehensive overview, including how to get the project running, its structure, how to contribute, and contact information. Feel free to modify it according to your specific project details or let me know if there's anything specific you'd like to add or change!
+This README provides a comprehensive overview, including how to get the project running, its structure, how to contribute, 
+and contact information. Feel free to modify it according to your specific project details or let me know if there's 
+anything specific you'd like to add or change!
