@@ -34,9 +34,3 @@ python main.py
 
 Make sure that the books directory contains a text file named frankenstein.txt, as the script expects this file by default.
 
-Contact:
-
-Javier Ferrer - arrozconsalchichas1229@gmail.com
-
-Project Link: https://github.com/your-username/bookbot
-
